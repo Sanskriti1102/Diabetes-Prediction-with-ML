@@ -1,5 +1,8 @@
 # Diabetes-Prediction-with-ML
 
+**Link :**
+🔗https://github.com/Sanskriti1102/Diabetes-Prediction-with-ML/blob/main/Diabetes%20Prediction%20with%20ML%20on%20PIMA%20Diabetes%20Dataset.ipynb
+
 **Code Description:**
 
 This Python script demonstrates the process of diabetes detection using Support Vector Machines (SVM). It follows a step-by-step procedure for data preprocessing, model training, and prediction. Below is a breakdown of the code:
